@@ -1,3 +1,4 @@
 #!/bin/sh
-
-npx lint-staged
+npm -n : staged,  pnpm -np(solver).state [Actions , esc(no-esc: 'Transport' : call)] 
+-tpm : <Staged: train > [train _ [checkouts]] , rc - !commit
+-ipm _ pre-resolver + [resolver_rates@ [Bash@biome].json.inc]
